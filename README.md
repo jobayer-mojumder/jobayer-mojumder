@@ -4,9 +4,6 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-<br/>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47qa1mxir8mwkpbwxo9x0bj3i60fy4cz8la7x1f6jw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 - 👋 Hi, I’m **@jobayer-mojumder**
 - 💬 Ask me about **Php, Laravel, Javascript, NodeJS, VueJS**
 - 📫 How to reach me **jobayer.mojumder71@gmail.com**
