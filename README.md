@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+My+Friend!;+I'm+Jobayer+Mojumder!;" alt="jobayermojumder_presentation"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+👋,;+I'm+Jobayer+Mojumder!;" alt="jobayermojumder_presentation"/>
 </h1>
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👋 Hi, I’m **@jobayer-mojumder**
+- 👨‍💻 Some of my projects are available at https://github.com/jobayer-mojumder
 - 💬 Ask me about **Php, Laravel, Javascript, NodeJS, VueJS**
 - 📫 How to reach me **jobayer.mojumder71@gmail.com**
   
